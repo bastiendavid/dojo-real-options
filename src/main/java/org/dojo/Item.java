@@ -14,7 +14,6 @@ public class Item {
 
 	public Price price() {
 		return price.multiply(quantity);
-
 	}
 
 }
