@@ -13,10 +13,8 @@ public class Item {
 	}
 
 	public Price price() {
-		return price.multiply(quantity.quantity());
-		
+		return price.multiply(quantity);
+
 	}
-	
-	
 
 }

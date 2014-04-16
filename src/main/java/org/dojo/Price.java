@@ -21,7 +21,7 @@ public class Price {
 		return new Price(this.price + price.price);
 	}
 
-	public Price multiply(int quantity) {
-		return new Price(price * quantity);
+	public Price multiply(Quantity quantity) {
+		return new Price(price * quantity.quantity());
 	}
 }
