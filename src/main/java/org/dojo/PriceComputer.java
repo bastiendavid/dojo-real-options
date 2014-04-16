@@ -2,13 +2,13 @@ package org.dojo;
 
 public class PriceComputer {
 
-	private ItemList items = new ItemList();
+	private Cart cart = new Cart();
 	
 	public void add(Item item) {
-		items.add(item);
+		cart.add(item);
 	}
 
 	public Price price() {
-		return items.price();
+		return cart.price();
 	}
 }
