@@ -2,13 +2,13 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>org.interviews</groupId>
-  <artifactId>url-splitting</artifactId>
+  <groupId>org.dojo</groupId>
+  <artifactId>real-options-elephant-carpaccio</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>url-splitting</name>
-  <url>https://sites.google.com/site/tddproblems/all-problems-1/URL-splitting</url>
+  <name>Real option with elephant carpaccio dojo</name>
+  <url>http://grenoble.clubagilerhonealpes.org/activites/coding-dojo/1239/dojo-ensimag-88e-session-du-coding-dojo-15042014-salle-h-104</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
